@@ -1,0 +1,1 @@
+beanclass.regform2
